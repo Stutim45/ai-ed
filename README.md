@@ -1,3 +1,3 @@
-# AI-ED 101
+# AI-ED 102
 
 Welcome to your lessons on Agentic Development.
